@@ -1,5 +1,5 @@
 # alm-project
-Modélisation ALM — gap actif-passif et immunisation sous Python
+
 # Modélisation ALM — Gap Actif-Passif et Immunisation
 
 ## Contexte métier
